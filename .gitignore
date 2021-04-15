@@ -1,0 +1,4 @@
+.gitignore
+.idea
+Octree/bin
+Octree/obj
